@@ -1,0 +1,2 @@
+-a permit -p icmp -d 8.8.8.8
+-a permit -s 8.8.8.8
